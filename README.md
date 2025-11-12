@@ -1,5 +1,3 @@
-![Banner](https://github.com/ChandanaS2653/Chandana/blob/main/banner.png)
-
 # 👋 Hi, I'm Chandana S  
  
 I’m passionate about cloud computing, automation, and cybersecurity.  
@@ -7,13 +5,13 @@ I love exploring AWS, Docker, and Linux to build secure and automated systems.
 
 ### ⚙️ Things I Love Working With 
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>](https://aws.amazon.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>](https://www.docker.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>](https://www.linux.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50"/>](https://github.com/features/actions)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Wireshark_Logo.svg" width="50" height="50"/>](https://www.wireshark.org/)
-[<img src="https://cdn-icons-png.flaticon.com/512/633/633816.png" width="50" height="50"/>](https://www.imperva.com/learn/application-security/phishing-attack/)
-[<img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="50" height="50"/>](https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/>](https://aws.amazon.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>](https://www.docker.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>](https://www.linux.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50" alt="Automation"/>](https://github.com/features/actions)
+[<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50" height="50" alt="Wireshark"/>](https://www.wireshark.org/)
+[<img src="https://cdn-icons-png.flaticon.com/512/633/633816.png" width="50" height="50" alt="Phishing"/>](https://www.imperva.com/learn/application-security/phishing-attack/)
+[<img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="50" height="50" alt="Cybersecurity"/>](https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html)
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandanas2653/)
