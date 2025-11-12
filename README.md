@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Chandana S  
+#  👋 Hi, I'm **Chandana S**  
+🌸 Welcome to my GitHub 🌸 
  
 I’m passionate about cloud computing, automation, and cybersecurity.  
-I love exploring AWS, Docker, and Linux to build secure and automated systems.  
+I love exploring AWS, DevOps tools, and building AI applications.  
 
 ### ⚙️ Things I Love Working With 
 
