@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**ChandanaS2653/ChandanaS2653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there!  
+I’m Chandana.  
+Thanks for stopping by 👋  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I’m passionate about learning and building projects in ☁️ cloud computing and 🤖 automation.  
+
+---
+
+### 🛠️ Skills  
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-2C2D72?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-00599C?style=for-the-badge&logo=security&logoColor=white"/>
+</p>
+
+---
+
+### 🌱 Currently Learning  
+AWS | DevOps Tools | Cloud Architecture | Cybersecurity | Automation  
+
+---
+
+### 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/chandanas2653/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ChandanaS2653">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
