@@ -78,6 +78,16 @@ Built and deployed a full-stack web application for a dental practice client. Fr
 
 ---
 
+**CyberPath — Cybersecurity Career Platform** — Client Project
+
+Free cybersecurity career platform for graduates — roadmaps, mentorship, and hands-on learning. Built with React, TypeScript, and Tailwind CSS; deployed on Netlify.
+
+`React` `TypeScript` `Tailwind CSS` `Vite` `Netlify`
+
+[Live Site](https://cyberpath-web.netlify.app/) · [View Repository](https://github.com/ChandanaS2653/Cyber-security-website)
+
+---
+
 **Application Deployment on AWS ECS Fargate & EC2**
 
 Deployed containerized applications on ECS Fargate for serverless container management and on EC2 for workloads needing direct server control — setting up task definitions, IAM roles, security groups, and VPC networking for both.
