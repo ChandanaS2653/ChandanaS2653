@@ -68,35 +68,43 @@ I build and deploy cloud applications on AWS — focused on serverless architect
 
 ## Projects
 
-**Serverless Student Session Tracking System**
+**Application Deployment on AWS ECS Fargate & EC2**
 
-Built a serverless backend to log student login/logout events and calculate session durations. Created 5 Lambda functions for auth, session tracking, and notifications; wired them to CORS-enabled API Gateway endpoints; stored data in DynamoDB; hosted the frontend on S3; and added CloudWatch logging throughout.
+Deployed containerized applications on ECS Fargate for serverless container management and on EC2 for workloads needing direct server control — setting up task definitions, IAM roles, security groups, and VPC networking for both.
 
-`AWS Lambda` `API Gateway` `DynamoDB` `S3` `CloudWatch` `Python` `JavaScript`
-
----
-
-**Secure Web Server Setup on AWS**
-
-Provisioned a secure web server using CloudFormation — VPC with public/private subnets, IAM roles scoped to least privilege, and security groups to restrict traffic. Everything is defined as code so the environment can be torn down and rebuilt exactly.
-
-`CloudFormation` `EC2` `VPC` `IAM` `Security Groups`
+`ECS Fargate` `EC2` `Docker` `ECR` `IAM` `VPC`
 
 ---
 
-**Dockerized Multi-Container Application Deployment on AWS ECS**
+**AWS Organizations Setup with Control Tower & Landing Zone**
 
-Containerized a multi-service application with Docker Compose for local development parity, then deployed it to AWS ECS Fargate — removing the need to manage underlying servers. Container images are stored in ECR, and the ECS task definitions handle resource allocation, networking, and service discovery across containers. Also tested Kubernetes-based orchestration for rolling updates and self-healing.
+Set up a multi-account AWS environment using AWS Organizations, Control Tower, and a Landing Zone — establishing governance guardrails, SCPs, and a clean account structure for team-wide cloud management from the start.
 
-`Docker` `AWS ECS Fargate` `ECR` `Kubernetes` `Docker Compose` `CI/CD`
+`AWS Organizations` `Control Tower` `Landing Zone` `SCP`
 
 ---
 
-**Honeypot-Based Secure Network System**
+**IAM Access Automation**
 
-Set up a Cowrie honeypot on Kali Linux to simulate an exposed SSH service, capture attacker behavior, and feed that data into a monitoring dashboard. Used it to study real intrusion patterns and sharpen threat detection.
+Automated IAM user provisioning using Lambda and the Google Sheets API — any update to the sheet triggers immediate access changes with instant notifications sent to the team, removing the need for manual IAM operations.
 
-`Kali Linux` `Cowrie` `Network Security` `Threat Detection`
+`AWS Lambda` `IAM` `Google Sheets API` `SNS` `Python`
+
+---
+
+**WhatsApp Alerts for AWS Service Events**
+
+Integrated AWS with WhatsApp using Lambda and the Wati API so the team gets real-time messages whenever a critical service is started, stopped, or deleted — no more missed email alerts for important infrastructure changes.
+
+`AWS Lambda` `CloudWatch Events` `SNS` `Wati API` `Python`
+
+---
+
+**AWS Cost & Billing Management**
+
+Set up billing alerts, Cost Explorer tracking, and automated cleanup routines across services — reduced infrastructure costs by 20–30% through right-sizing and identifying idle resources before they became a problem.
+
+`Cost Explorer` `CloudWatch Billing Alarms` `AWS Budgets` `Lambda`
 
 ---
 
