@@ -68,6 +68,16 @@ I build and deploy cloud applications on AWS — focused on serverless architect
 
 ## Projects
 
+**Dental Practice Web Application** — Client Project
+
+Built and deployed a full-stack web application for a dental practice client. Frontend in React with TypeScript and Tailwind CSS; backend in Node.js. Deployed on Netlify with CI/CD on push.
+
+`React` `TypeScript` `Node.js` `Vite` `Tailwind CSS` `Netlify`
+
+[View Repository](https://github.com/ChandanaS2653/dental_web)
+
+---
+
 **Application Deployment on AWS ECS Fargate & EC2**
 
 Deployed containerized applications on ECS Fargate for serverless container management and on EC2 for workloads needing direct server control — setting up task definitions, IAM roles, security groups, and VPC networking for both.
