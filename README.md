@@ -84,11 +84,11 @@ Provisioned a secure web server using CloudFormation — VPC with public/private
 
 ---
 
-**Dockerized Multi-Container Application Deployment**
+**Dockerized Multi-Container Application Deployment on AWS ECS**
 
-Containerized a multi-service application with Docker Compose for local development parity, then moved orchestration to Kubernetes for production — covering service discovery, persistent storage, and rolling updates.
+Containerized a multi-service application with Docker Compose for local development parity, then deployed it to AWS ECS Fargate — removing the need to manage underlying servers. Container images are stored in ECR, and the ECS task definitions handle resource allocation, networking, and service discovery across containers. Also tested Kubernetes-based orchestration for rolling updates and self-healing.
 
-`Docker` `Kubernetes` `Docker Compose` `CI/CD`
+`Docker` `AWS ECS Fargate` `ECR` `Kubernetes` `Docker Compose` `CI/CD`
 
 ---
 
