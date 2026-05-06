@@ -74,7 +74,7 @@ Built and deployed a full-stack web application for a dental practice client. Fr
 
 `React` `TypeScript` `Node.js` `Vite` `Tailwind CSS` `Netlify`
 
-[View Repository](https://github.com/ChandanaS2653/dental_web)
+[Live Site](https://ashirwadh-dental-clinic.netlify.app) · [View Repository](https://github.com/ChandanaS2653/dental_web)
 
 ---
 
