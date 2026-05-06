@@ -78,11 +78,11 @@ Built and deployed a full-stack web application for a dental practice client. Fr
 
 ---
 
-**CyberPath — Cybersecurity Career Platform** — Client Project
+**CyberPath — Free Cybersecurity Career Platform**
 
-Free cybersecurity career platform for graduates — roadmaps, mentorship, and hands-on learning. Built with React, TypeScript, and Tailwind CSS; deployed on Netlify.
+A free platform built to help Indian college graduates break into cybersecurity — offering structured six-month roadmaps, hands-on labs, portfolio guidance, and community mentorship. Designed to bridge the experience gap that blocks freshers from entry-level roles.
 
-`React` `TypeScript` `Tailwind CSS` `Vite` `Netlify`
+`React` `TypeScript` `Tailwind CSS` `Vite` `Framer Motion` `Netlify`
 
 [Live Site](https://cyberpath-web.netlify.app/) · [View Repository](https://github.com/ChandanaS2653/Cyber-security-website)
 
